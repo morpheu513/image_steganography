@@ -1,5 +1,5 @@
 # Steganography of Images Using SVD 
- This is a project on Image Steganography , particularly on Image steganography. The project is done in MATLAB and can be used for embedding simple messages in images. The images after embedding look similar to the one before embedding and will not be differentiable to the human eye. 
+ This is a project on Steganography, particularly on Image Steganography. The project has been implimented in MATLAB and can be used for embedding simple messages in images. The images after embedding look similar to the one before embedding and will not be differentiable to the human eye. 
 
 ## Approach:
 We have divided each input image into 4 x 4 blocks and we calculate the SVD for each block.
