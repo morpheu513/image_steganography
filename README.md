@@ -1,3 +1,3 @@
-# image_steganography
+# Steganography of Images Using SVD 
 
-Implimentation of image steganography using eigen vectors and single value decomposition
+
