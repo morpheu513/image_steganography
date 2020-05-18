@@ -1,6 +1,8 @@
-I=imread("10.jpg");
+%% Reading the image
+I=imread("10.jpg");  %% Write the path to the image here
 I2=im2double(I);
-%%Message code
+
+%%Wrtie the message to be encoded here
 M='Everything-is-temporary-nothing-ever-lasts';
 lm=strlength(M);
 MNum=double(M);
